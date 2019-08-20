@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PC Remote</string>
+    <string name="vel_x">
+        Vel X: %1$.2f
+    </string>
+    <string name="vel_y">
+        Vel Y: %1$.2f
+    </string>
+    <string name="x">
+        X: %1$.2f
+    </string>
+    <string name="y">
+        Y: %1$.2f
+    </string>
+    <string name="pressure">
+        Pressure: %1$.2f
+    </string>
+
+    <string name="preferences_edittext_title">PC address or ip</string>
+    <string name="preferences_edittext_default">ws://192.168.0.1:8181</string>
+    <string name="preferences_edittext_message">Enter PC address:</string>
+    <string name="settings">&#xf013;</string>
+</resources>
